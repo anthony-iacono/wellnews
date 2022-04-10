@@ -4,8 +4,7 @@
 
 A novel news application that seeks to help news consumers feel emotionally balanced after reading the news. This application was built utilizing TypeScript, React, React Hooks, and React Router.
 
-Visit our <a href="https://najinl.github.io/wellnews/">deployed site</a>.
-View our <a href="https://www.youtube.com/watch?v=3nanaC37vsE">video demonstration</a>.
+Check out our <a href="https://najinl.github.io/wellnews/">deployed site</a> and view our <a href="https://www.youtube.com/watch?v=3nanaC37vsE">video demonstration</a>.
 
 ## Snapshot of Application
 
